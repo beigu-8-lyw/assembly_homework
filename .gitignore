@@ -1,0 +1,6 @@
+# 编译环境（MASM/LINK/DEBUG 等工具）的可执行文件
+/*.EXE
+/*.exe
+
+# VS Code 配置
+.vscode/
